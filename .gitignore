@@ -1,0 +1,17 @@
+/.vscode
+/build
+/dist
+/employee.csv
+/numerical.py
+/numerical.spec
+/numerical2.py
+/numerical2.spec
+/program2.py
+/program2.spec
+/program3.py
+/program3.spec
+/program4.py
+/program4.spec
+/task.py
+/task.spec
+/test.cpp
